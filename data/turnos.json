@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nombreCliente": "Laura Gomez",
+    "servicio": "Manicure",
+    "fechaHora": "2026-11-25 10:00",
+    "precioBase": 50000,
+    "prioritario": true,
+    "porcentajeRecargo": 16,
+    "totalPagar": 58000
+  },
+  {
+    "id": 2,
+    "nombreCliente": "Maria Fernanda",
+    "servicio": "Limpieza facial",
+    "fechaHora": "2026-11-26 09:00",
+    "precioBase": 80000,
+    "prioritario": false,
+    "porcentajeRecargo": 0,
+    "totalPagar": 80000
+  }
+]
